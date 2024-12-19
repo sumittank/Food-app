@@ -1,0 +1,107 @@
+[
+  {
+    "dishName": "Vada Pav",
+    "city": "Mumbai",
+    "description": "A spicy potato fritter in a bread bun served with chutneys.",
+    "price": 30,
+    "img": ""
+  },
+  {
+    "dishName": "Pav Bhaji",
+    "city": "Mumbai",
+    "description": "A spicy mashed vegetable curry served with buttered bread rolls.",
+    "price": 80,
+    "img": ""
+  },
+  {
+    "dishName": "Chole Bhature",
+    "city": "Delhi",
+    "description": "Spicy chickpeas served with deep-fried bread.",
+    "price": 100,
+    "img": ""
+  },
+  {
+    "dishName": "Hyderabadi Biryani",
+    "city": "Hyderabad",
+    "description": "A fragrant rice dish cooked with spices and marinated meat or vegetables.",
+    "price": 250,
+    "img": ""
+  },
+  {
+    "dishName": "Dosa",
+    "city": "Chennai",
+    "description": "A thin, crispy pancake made from fermented rice and lentil batter.",
+    "price": 60,
+    "img": ""
+  },
+  {
+    "dishName": "Kolkata Kathi Roll",
+    "city": "Kolkata",
+    "description": "A paratha roll stuffed with spicy meat or vegetables.",
+    "price": 70,
+    "img": ""
+  },
+  {
+    "dishName": "Butter Chicken",
+    "city": "Delhi",
+    "description": "A creamy tomato-based curry made with tender chicken pieces.",
+    "price": 350,
+    "img": ""
+  },
+  {
+    "dishName": "Dhokla",
+    "city": "Ahmedabad",
+    "description": "A savory steamed cake made from fermented rice and chickpea batter.",
+    "price": 40,
+    "img": ""
+  },
+  {
+    "dishName": "Pani Puri",
+    "city": "Mumbai",
+    "description": "Crispy hollow puris filled with spicy tamarind water and mashed potatoes.",
+    "price": 20,
+    "img": ""
+  },
+  {
+    "dishName": "Litti Chokha",
+    "city": "Patna",
+    "description": "A traditional dish made of wheat balls stuffed with sattu and served with mashed vegetables.",
+    "price": 50,
+    "img": ""
+  },
+  {
+    "dishName": "Sarson Da Saag with Makki Di Roti",
+    "city": "Amritsar",
+    "description": "A traditional Punjabi dish made of mustard greens served with corn flatbread.",
+    "price": 150,
+    "img": ""
+  },
+  {
+    "dishName": "Rogan Josh",
+    "city": "Srinagar",
+    "description": "A flavorful lamb curry cooked with spices and yogurt.",
+    "price": 400,
+    "img": ""
+  },
+  {
+    "dishName": "Poha",
+    "city": "Indore",
+    "description": "A light and healthy snack made from flattened rice, spices, and herbs.",
+    "price": 25,
+    "img": ""
+  },
+  {
+    "dishName": "Fish Curry",
+    "city": "Kochi",
+    "description": "A spicy and tangy curry made with fresh fish and coconut.",
+    "price": 200,
+    "img": ""
+  },
+  {
+    "dishName": "Ghewar",
+    "city": "Jaipur",
+    "description": "A traditional Rajasthani sweet made from flour, sugar syrup, and ghee.",
+    "price": 120,
+    "img": ""
+  }
+]

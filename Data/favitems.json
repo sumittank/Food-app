@@ -1,0 +1,122 @@
+[
+  {
+    "categoryName": "Starter",
+    "name": "Chilli Paneer",
+    "img": "",
+    "description": "Spicy Chilli Paneer cooked with fresh vegetables.",
+    "price": 200,
+    "options": []
+  },
+  {
+    "categoryName": "Starter",
+    "name": "Spring Rolls",
+    "img": "",
+    "description": "Crispy spring rolls filled with fresh vegetables.",
+    "price": 150,
+    "options": []
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Butter Chicken",
+    "img": "",
+    "description": "Creamy butter chicken cooked in a tomato-based gravy.",
+    "price": 350,
+    "options": []
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Paneer Butter Masala",
+    "img": "",
+    "description": "Paneer cooked in a rich and creamy butter masala gravy.",
+    "price": 300,
+    "options": []
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Biryani",
+    "img": "",
+    "description": "Aromatic Biryani made with basmati rice and spices.",
+    "price": 250,
+    "options": []
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Dal Makhani",
+    "img": "",
+    "description": "Slow-cooked black lentils in a creamy tomato sauce.",
+    "price": 220,
+    "options": []
+  },
+  {
+    "categoryName": "Dessert",
+    "name": "Gulab Jamun",
+    "img": "",
+    "description": "Sweet and spongy Gulab Jamuns soaked in sugar syrup.",
+    "price": 100,
+    "options": []
+  },
+  {
+    "categoryName": "Dessert",
+    "name": "Rasmalai",
+    "img": "",
+    "description": "Soft paneer balls soaked in sweetened milk.",
+    "price": 120,
+    "options": []
+  },
+  {
+    "categoryName": "Dessert",
+    "name": "Ice Cream",
+    "img": "",
+    "description": "Creamy ice cream in various flavors.",
+    "price": 80,
+    "options": []
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Chicken Tikka Masala",
+    "img": "",
+    "description": "Grilled chicken pieces cooked in a spicy tomato sauce.",
+    "price": 350,
+    "options": []
+  },
+  {
+    "categoryName": "Starter",
+    "name": "Samosa",
+    "img": "",
+    "description": "Crispy pastry filled with spiced potatoes and peas.",
+    "price": 50,
+    "options": []
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Palak Paneer",
+    "img": "",
+    "description": "Paneer cooked in a spiced spinach gravy.",
+    "price": 300,
+    "options": []
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Rogan Josh",
+    "img": "",
+    "description": "Tender pieces of lamb cooked in a rich gravy.",
+    "price": 400,
+    "options": []
+  },
+  {
+    "categoryName": "Dessert",
+    "name": "Kheer",
+    "img": "",
+    "description": "Rice pudding cooked in milk with sugar and cardamom.",
+    "price": 90,
+    "options": []
+  },
+  {
+    "categoryName": "Starter",
+    "name": "Paneer Tikka",
+    "img": "",
+    "description": "Grilled paneer cubes marinated in spices.",
+    "price": 250,
+    "options": []
+  }
+]
